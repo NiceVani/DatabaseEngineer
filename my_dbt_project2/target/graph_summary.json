@@ -1,0 +1,1 @@
+{"_invocation_id": "ede871b3-422b-41a7-bc27-510f3f34d39e", "linked": {"0": {"name": "source.my_dbt_project2.TPCDS_SF10TCL.CUSTOMER", "type": "source", "succ": [2]}, "1": {"name": "source.my_dbt_project2.TPCDS_SF10TCL.STORE_SALES", "type": "source", "succ": [2]}, "2": {"name": "model.my_dbt_project2.customer_sale", "type": "model"}}}
